@@ -1,0 +1,9 @@
+name: Fly
+author: Gov
+version: 1.0.0
+api: 3.0.0
+main: flying\main
+
+commands:
+  fly:
+    description: /fly - Makes you fly with a special surprise ;)
